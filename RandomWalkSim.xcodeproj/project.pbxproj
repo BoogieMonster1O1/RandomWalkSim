@@ -11,7 +11,6 @@
 		648264F42A3744960034708B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 648264F32A3744960034708B /* ContentView.swift */; };
 		648264F62A37449D0034708B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 648264F52A37449D0034708B /* Assets.xcassets */; };
 		648264F92A37449D0034708B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 648264F82A37449D0034708B /* Preview Assets.xcassets */; };
-		648264FB2A37449D0034708B /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = 648264FA2A37449D0034708B /* Item.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,7 +19,6 @@
 		648264F32A3744960034708B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		648264F52A37449D0034708B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		648264F82A37449D0034708B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		648264FA2A37449D0034708B /* Item.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Item.swift; sourceTree = "<group>"; };
 		648264FC2A37449D0034708B /* RandomWalkSim.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = RandomWalkSim.entitlements; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -57,7 +55,6 @@
 				648264F12A3744960034708B /* RandomWalkSimApp.swift */,
 				648264F32A3744960034708B /* ContentView.swift */,
 				648264F52A37449D0034708B /* Assets.xcassets */,
-				648264FA2A37449D0034708B /* Item.swift */,
 				648264FC2A37449D0034708B /* RandomWalkSim.entitlements */,
 				648264F72A37449D0034708B /* Preview Content */,
 			);
@@ -143,7 +140,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				648264F42A3744960034708B /* ContentView.swift in Sources */,
-				648264FB2A37449D0034708B /* Item.swift in Sources */,
 				648264F22A3744960034708B /* RandomWalkSimApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

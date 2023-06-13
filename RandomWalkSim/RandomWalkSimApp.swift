@@ -6,7 +6,6 @@
 //
 
 import SwiftUI
-import SwiftData
 
 @main
 struct RandomWalkSimApp: App {
@@ -15,6 +14,5 @@ struct RandomWalkSimApp: App {
         WindowGroup {
             ContentView()
         }
-        .modelContainer(for: Item.self)
     }
 }
